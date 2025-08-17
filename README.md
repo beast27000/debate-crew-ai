@@ -1,8 +1,9 @@
-![WhatsApp Image 2025-07-05 at 21 46 23_818e724f](https://github.com/user-attachments/assets/9e8f8197-228a-4076-83ca-370bb5ebb463)# Debate Crew – Vishevvesh
+# Debate Crew – Vishevvesh
 
 ## Overview
 
 Debate Crew is a multi-agent AI system powered by [CrewAI](https://crewai.com/). This project demonstrates how agents can collaborate on research and debates, leveraging structured workflows, YAML-based configurations, and extensible tools. By default, the crew generates a `report.md` summarizing research on LLMs, but it can be extended to handle a wide range of tasks.
+ed configurations, and extensible tools. By default, the crew generates a `report.md` summarizing research on LLMs, but it can be extended to handle a wide range of tasks.
 
 ## Features
 
