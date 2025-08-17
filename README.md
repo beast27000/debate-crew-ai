@@ -23,17 +23,6 @@ The Debate Crew is composed of multiple AI agents, each with unique roles, goals
 - This modular setup allows you to easily expand, specialize, or reconfigure your team of agents to tackle new domains.
   
 
-![WhatsApp Image 2025-07-05 at 21 45 44_5e07d3a3](https://github.com/user-attachments/assets/a2ac550a-6cf5-4fcb-be48-cd8d2c789a80)
-![WhatsApp Image 2025-07-05 at 21 46 06_0915d376](https://github.com/user-attachments/assets/d646dc0e-9577-493a-ac9b-3664318555ec)
-![WhatsApp Image 2025-07-05 at 21 46 23_818e724f](https://github.com/user-attachments/assets/00bfe3b0-1cbb-45bc-b14b-68a3cc54b1bb)
-![WhatsApp Image 2025-07-05 at 21 48 31_23cd2e55](https://github.com/user-attachments/assets/426a3a64-aaf4-449f-9ae5-1a7e8d972630)
-![WhatsApp Image 2025-07-05 at 21 49 06_ab149678](https://github.com/user-attachments/assets/3aa07415-2c26-469e-9c8f-5c4344da08f7)
-![WhatsApp Image 2025-07-05 at 21 49 49_c0c50332](https://github.com/user-attachments/assets/d4492b50-7ce4-4755-b19d-63e5203974bb)
-![WhatsApp Image 2025-07-05 at 21 50 07_086efda4](https://github.com/user-attachments/assets/f7bfc50d-314e-440d-9edc-afadde8baedc)
-![WhatsApp Image 2025-07-05 at 21 58 00_64e69428](https://github.com/user-attachments/assets/62645a40-2452-477a-a22e-e25f26c500d7)
-![WhatsApp Image 2025-07-05 at 21 58 37_8f72928d](https://github.com/user-attachments/assets/ac62bd53-4a2a-4e08-bc85-6dd5145df4ba)
-
-
 ## Setup Instructions
 
 1. **Python Environment**
@@ -98,7 +87,30 @@ This will assemble the crew, assign tasks, and create:
 ├── .env                       # Environment variables
 ├── pyproject.toml             # Project configuration
 └── README.md                  # Documentation
+
 ```
+
+##Project Images
+
+![WhatsApp Image 2025-07-05 at 21 45 44_5e07d3a3](https://github.com/user-attachments/assets/a2ac550a-6cf5-4fcb-be48-cd8d2c789a80)
+
+![WhatsApp Image 2025-07-05 at 21 46 06_0915d376](https://github.com/user-attachments/assets/d646dc0e-9577-493a-ac9b-3664318555ec)
+
+![WhatsApp Image 2025-07-05 at 21 46 23_818e724f](https://github.com/user-attachments/assets/00bfe3b0-1cbb-45bc-b14b-68a3cc54b1bb)
+
+![WhatsApp Image 2025-07-05 at 21 48 31_23cd2e55](https://github.com/user-attachments/assets/426a3a64-aaf4-449f-9ae5-1a7e8d972630)
+
+![WhatsApp Image 2025-07-05 at 21 49 06_ab149678](https://github.com/user-attachments/assets/3aa07415-2c26-469e-9c8f-5c4344da08f7)
+
+![WhatsApp Image 2025-07-05 at 21 49 49_c0c50332](https://github.com/user-attachments/assets/d4492b50-7ce4-4755-b19d-63e5203974bb)
+
+![WhatsApp Image 2025-07-05 at 21 50 07_086efda4](https://github.com/user-attachments/assets/f7bfc50d-314e-440d-9edc-afadde8baedc)
+
+![WhatsApp Image 2025-07-05 at 21 58 00_64e69428](https://github.com/user-attachments/assets/62645a40-2452-477a-a22e-e25f26c500d7)
+
+![WhatsApp Image 2025-07-05 at 21 58 37_8f72928d](https://github.com/user-attachments/assets/ac62bd53-4a2a-4e08-bc85-6dd5145df4ba)
+
+
 
 ## Notes
 
