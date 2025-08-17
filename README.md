@@ -21,6 +21,7 @@ The Debate Crew is composed of multiple AI agents, each with unique roles, goals
 - Agent configurations are stored in `src/debate/config/agents.yaml`, outlining their capabilities and collaboration style.
 - During execution, the crew coordinates these agents to leverage their collective skills and achieve complex objectives.
 - This modular setup allows you to easily expand, specialize, or reconfigure your team of agents to tackle new domains.
+  
 
 ![WhatsApp Image 2025-07-05 at 21 45 44_5e07d3a3](https://github.com/user-attachments/assets/a2ac550a-6cf5-4fcb-be48-cd8d2c789a80)
 ![WhatsApp Image 2025-07-05 at 21 46 06_0915d376](https://github.com/user-attachments/assets/d646dc0e-9577-493a-ac9b-3664318555ec)
