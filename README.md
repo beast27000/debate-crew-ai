@@ -1,4 +1,4 @@
-# Debate Crew 
+# Debate Crew – Vishevvesh
 
 ## Overview
 
@@ -11,6 +11,15 @@ Debate Crew is a multi-agent AI system powered by [CrewAI](https://crewai.com/).
 - **Customizable Logic**: Extend with your own tools and arguments in `crew.py` and `main.py`.
 - **Automated Reports**: Generates a `report.md` file summarizing outputs.
 - **Agentic AI Workflow**: Demonstrates orchestration of multiple reasoning agents for structured debates.
+
+## Understanding Your Crew
+
+The Debate Crew is composed of multiple AI agents, each with unique roles, goals, and tools.
+
+- Tasks are defined in `src/debate/config/tasks.yaml`, describing what the crew must achieve.
+- Agent configurations are stored in `src/debate/config/agents.yaml`, outlining their capabilities and collaboration style.
+- During execution, the crew coordinates these agents to leverage their collective skills and achieve complex objectives.
+- This modular setup allows you to easily expand, specialize, or reconfigure your team of agents to tackle new domains.
 
 ## Setup Instructions
 
